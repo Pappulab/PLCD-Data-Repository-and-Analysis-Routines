@@ -17,6 +17,8 @@ FUS_Fam_Homologs_IDRs.fasta - FUS family homolog IDR sequences used in the study
 
 hnRNPA1_Homologs_IDRs_csat.xlsx - Estimated csat values of hnRNPA1 homolog IDRs.
 
+pH_Dependence_Measurements.xlsx - pH-dependent csat measurements of the +7K+12D variant.
+
 In addition, this directory contains four Python modules used for data analysis:
 
 Rescaled_Csat.py - a module with functions to rescale csat values given a mean-field model and to plot the rescaled values. This module can also be used to parameterize a mean-field model.
