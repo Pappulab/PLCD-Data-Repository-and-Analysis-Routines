@@ -3,9 +3,9 @@ Data repository and analysis routines used to study prion-like low-complexity do
 
 This directory contains multiple data files in the Data-Files directory:
 
-SAXS Data.xlsx - small-angle X-ray scattering data for variants described in the study.
+SAXS_Data.xlsx - small-angle X-ray scattering data for variants described in the study.
 
-Phase Separation Data.xlsx - dilute and dense phase concentrations of phase separated systems described in the study.
+Phase_Separation_Data.xlsx - dilute and dense phase concentrations of phase separated systems described in the study.
 
 hnRNPA1_Homologs.fasta - hnRNPA1 homolog sequences used in the study.
 
@@ -14,6 +14,8 @@ hnRNPA1_Homologs_IDRs.fasta - hnRNPA1 homolog IDR sequences used in the study.
 FUS_Fam_Homologs.fasta - FUS family homolog sequences used in the study.
 
 FUS_Fam_Homologs_IDRs.fasta - FUS family homolog IDR sequences used in the study.
+
+hnRNPA1_Homologs_IDRs_csat.xlsx - Estimated csat values of hnRNPA1 homolog IDRs.
 
 In addition, this directory contains four Python modules used for data analysis:
 
