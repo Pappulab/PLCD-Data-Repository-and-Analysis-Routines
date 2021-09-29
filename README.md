@@ -1,7 +1,7 @@
 # LCD Data Repository and Analysis Routines
 Data repository and analysis routines used to study prion-like low-complexity domains as described in https://www.biorxiv.org/content/10.1101/2021.01.01.425046v1
 
-This directory contains multiple data files in the Data Files directory:
+This directory contains multiple data files in the Data-Files directory:
 
 SAXS Data.xlsx - small-angle X-ray scattering data for variants described in the study.
 
