@@ -1,9 +1,19 @@
 # LCD Data Repository and Analysis Routines
 Data repository and analysis routines used to study prion-like low-complexity domains as described in https://www.biorxiv.org/content/10.1101/2021.01.01.425046v1
 
-This directory contains multiple data files:
+This directory contains multiple data files in the Data Files directory:
 
+SAXS Data.xlsx - small-angle X-ray scattering data for variants described in the study.
 
+Phase Separation Data.xlsx - dilute and dense phase concentrations of phase separated systems described in the study.
+
+hnRNPA1_Homologs.fasta - hnRNPA1 homolog sequences used in the study.
+
+hnRNPA1_Homologs_IDRs.fasta - hnRNPA1 homolog IDR sequences used in the study.
+
+FUS_Fam_Homologs.fasta - FUS family homolog sequences used in the study.
+
+FUS_Fam_Homologs_IDRs.fasta - FUS family homolog IDR sequences used in the study.
 
 In addition, this directory contains four Python modules used for data analysis:
 
