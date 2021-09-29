@@ -25,7 +25,7 @@ PLCD_Analyzer.py - a master module that takes advantage of the other modules to 
 
 data_set_example.py - a module that defines some settings and data required for PLCD_Analyzer.py to function properly. All data are taken from the preprint listed above.
 
-In order to use these analysis methods, one should first verify that running PLCD_Analyzer.py correctly shows a 2-panel plot of rescaled csat values and a thermodynamic analysis.
+In order to use these analysis methods, one should first verify that running PLCD_Analyzer.py shows a 2-panel plot of rescaled csat values and a thermodynamic analysis.
 
 Next, one should reformat data_set_example.py or create a new data file to contain their personal csat data. Specifically, one can follow the template set in data_set_example.py or use an alternative method. For an alternative method, the modules expect a dictionary, seq_dic, with the form seq_dic[_Variant Name_]["csat"][_Temperature_] = X, where anything in italics should be replaced with an appropriate string. The modules also expect seq_dic to have other keywords, which can be discerned from the example module. In addition, the data_set module will require a list of variant names, a list of temperatures from experiments, and a list of marker types to be used with matplotlib. The latter can be taken directly from the example module.
 
