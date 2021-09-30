@@ -5,6 +5,8 @@ This directory contains multiple data files in the Data-Files directory:
 
 SAXS_Data.xlsx - small-angle X-ray scattering data for variants described in the study.
 
+CD_Data.xlsx - circular dichroism data for variants described in the study.
+
 Phase_Separation_Data.xlsx - dilute and dense phase concentrations of phase separated systems described in the study.
 
 hnRNPA1_Homologs.fasta - hnRNPA1 homolog sequences used in the study.
