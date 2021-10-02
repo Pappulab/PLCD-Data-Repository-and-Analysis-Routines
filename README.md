@@ -9,6 +9,10 @@ CD_Data.xlsx - circular dichroism data for variants described in the study.
 
 Phase_Separation_Data.xlsx - dilute and dense phase concentrations of phase separated systems described in the study.
 
+pH_Dependence_Measurements.xlsx - pH-dependent csat measurements of the +7K+12D variant.
+
+vant_Hoff_Data.xlsx - thermodynamic values inferred from the csat measurements of the variants used in this study.
+
 hnRNPA1_Homologs.fasta - hnRNPA1 homolog sequences used in the study.
 
 hnRNPA1_Homologs_IDRs.fasta - hnRNPA1 homolog IDR sequences used in the study.
@@ -18,8 +22,6 @@ FUS_Fam_Homologs.fasta - FUS family homolog sequences used in the study.
 FUS_Fam_Homologs_IDRs.fasta - FUS family homolog IDR sequences used in the study.
 
 hnRNPA1_Homologs_IDRs_csat.xlsx - Estimated csat values of hnRNPA1 homolog IDRs.
-
-pH_Dependence_Measurements.xlsx - pH-dependent csat measurements of the +7K+12D variant.
 
 In addition, this directory contains four Python modules used for data analysis:
 
