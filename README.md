@@ -23,6 +23,8 @@ FUS_Fam_Homologs_IDRs.fasta - FUS family homolog IDR sequences used in the study
 
 hnRNPA1_Homologs_IDRs_csat.xlsx - Estimated csat values of hnRNPA1 homolog IDRs.
 
+DIC_Images_1.zip and DIC_Images_2.zip - zip files containing DIC microscopy images of condensates formed by many of the variants used in this study.
+
 In addition, this directory contains four Python modules used for data analysis:
 
 Rescaled_Csat.py - a module with functions to rescale csat values given a mean-field model and to plot the rescaled values. This module can also be used to parameterize a mean-field model.
