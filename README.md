@@ -7,9 +7,11 @@ SAXS_Data.xlsx - small-angle X-ray scattering data for variants described in the
 
 CD_Data.xlsx - circular dichroism data for variants described in the study. Used in Supplementary Figure 3.
 
+NMR_Data.xlsx - NMR relaxation data and Gaussian fits for the LCD +7K+12D variant. Used in Extended Data Figure 3.
+
 Phase_Separation_Data.xlsx - dilute and dense phase concentrations of phase separated systems described in the study. Used in Figures 1-7, in Extended Data Figures 4 and 7, and in Supplementary Figures 2, 4, 6, and 7.
 
-pH_Dependence_Measurements.xlsx - pH-dependent csat measurements of the +7K+12D variant. Used in Extended Data Figure 4.
+pH_Dependence_Measurements.xlsx - pH-dependent csat measurements of the LCD +7K+12D variant. Used in Extended Data Figure 4.
 
 vant_Hoff_Data.xlsx - thermodynamic values inferred from the csat measurements of the variants used in this study. Used in Figure 2 and in Supplementary Figure 7.
 
