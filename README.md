@@ -3,27 +3,27 @@ Data repository and analysis routines used to study prion-like low-complexity do
 
 This directory contains multiple data files in the Data-Files directory:
 
-SAXS_Data.xlsx - small-angle X-ray scattering data for variants described in the study.
+SAXS_Data.xlsx - small-angle X-ray scattering data for variants described in the study. Used in Figure 6, in Extended Data Figure 5, and in Supplementary Figure 5.
 
-CD_Data.xlsx - circular dichroism data for variants described in the study.
+CD_Data.xlsx - circular dichroism data for variants described in the study. Used in Supplementary Figure 3.
 
-Phase_Separation_Data.xlsx - dilute and dense phase concentrations of phase separated systems described in the study.
+Phase_Separation_Data.xlsx - dilute and dense phase concentrations of phase separated systems described in the study. Used in Figures 1-7, in Extended Data Figures 4 and 7, and in Supplementary Figures 2, 4, 6, and 7.
 
-pH_Dependence_Measurements.xlsx - pH-dependent csat measurements of the +7K+12D variant.
+pH_Dependence_Measurements.xlsx - pH-dependent csat measurements of the +7K+12D variant. Used in Extended Data Figure 4.
 
-vant_Hoff_Data.xlsx - thermodynamic values inferred from the csat measurements of the variants used in this study.
+vant_Hoff_Data.xlsx - thermodynamic values inferred from the csat measurements of the variants used in this study. Used in Figure 2 and in Supplementary Figure 7.
 
-hnRNPA1_Homologs.fasta - hnRNPA1 homolog sequences used in the study.
+hnRNPA1_Homologs.fasta - hnRNPA1 homolog sequences used in the study. Used in Figures 1, 3, and 7, and in Extended Data Figures 1 and 6.
 
-hnRNPA1_Homologs_IDRs.fasta - hnRNPA1 homolog IDR sequences used in the study.
+hnRNPA1_Homologs_IDRs.fasta - hnRNPA1 homolog IDR sequences used in the study. Used in Figures 1, 3, and 7, and in Extended Data Figures 1 and 6.
 
-FUS_Fam_Homologs.fasta - FUS family homolog sequences used in the study.
+FUS_Fam_Homologs.fasta - FUS family homolog sequences used in the study. Used in Extended Data Figure 8.
 
-FUS_Fam_Homologs_IDRs.fasta - FUS family homolog IDR sequences used in the study.
+FUS_Fam_Homologs_IDRs.fasta - FUS family homolog IDR sequences used in the study. Used in Extended Data Figure 8.
 
-hnRNPA1_Homologs_IDRs_csat.xlsx - Estimated csat values of hnRNPA1 homolog IDRs.
+hnRNPA1_Homologs_IDRs_csat.xlsx - Estimated csat values of hnRNPA1 homolog IDRs. Used in Figure 5.
 
-DIC_Images_1.zip and DIC_Images_2.zip - zip files containing DIC microscopy images of condensates formed by many of the variants used in this study.
+DIC_Images_1.zip and DIC_Images_2.zip - zip files containing DIC microscopy images of condensates formed by many of the variants used in this study. Shown in Figures 1 and 4, and in Supplementary Figure 6.
 
 In addition, this directory contains four Python modules used for data analysis:
 
